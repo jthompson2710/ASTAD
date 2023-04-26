@@ -1,2 +1,2 @@
-# AASSTAD Algorithm
-ASTER Automated Statistical Spatiotemporal Thermal Anomaly Detection (AASSTAD) Algorithm 
+# ASTAD Algorithm
+ Automated Spatiotemporal Thermal Anomaly Detection (ASTAD) Algorithm 
