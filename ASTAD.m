@@ -4,8 +4,10 @@
 %
 % Automated Spatiotemporal Thermal Anomaly Detection (ASTAD) Algorithm
 %
-% Requires MATLAB 2021a or newer
-% Also requires all the functions in the GitHub subfolder
+% Requires: - MATLAB 2021a or newer
+%           - Statistics and Machine Learning Toolbox
+%           - Mapping Toolbox
+%           - Also requires all the functions in the GitHub subfolder
 %
 % Last updated 04/27/2023
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -17,7 +19,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % STEP UP INFORMATION
 % 
-% Make sure all the functions in the GitHub subfolder are compiled.
+% Make sure all the functions in the GitHub subfolder are compiled and you
+% will need the Statistics and Machine Learning and Mapping Toolbox
+% installed
 %
 % Place all HDF files in one directory and then fill out the information 
 % about the data and volcano below. This includes:
