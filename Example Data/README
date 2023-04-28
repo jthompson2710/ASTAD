@@ -1,10 +1,11 @@
-This folder contains the metadata for some example data results. The actually data can be located at:
+This folder contains the metadata for some example data results. The actually data can be located at: "this will be added when published"
 
-These were derived for the following manuscript in Remote Sensing of the Environment:
+These were developed for the following manuscript in Remote Sensing of the Environment: "this will be added when published". 
 
+This work was supported by NASA grants 80NSSC18K1001 and 80NSSC20K1336.
 
 The data are in MATLAB .mat format as Data Tables, and can be opened in MATLAB using the load function.
-The data are also available as .DAT files and can be opened in MATLAB using the importdata function.
+The data are also available as .DAT files and can be opened in other programming/GIS software.
 
 The data tables are in the following structure:
 
