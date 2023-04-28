@@ -4,7 +4,8 @@
 
 Contributors: James O Thompson, Claudia Corradino, Tyler Leggett, Mike Ramsey
 
-Requires: - MATLAB 2021a or newer
+Requires: 
+          - MATLAB 2021a or newer
 
           - Statistics and Machine Learning Toolbox
           
@@ -105,6 +106,7 @@ each row representing one HDF file:
                       1 = Cloudy scene
                       2 = No anomaly detected
                       3 = Anomaly detected
+
 
 
 Copyright 2023 -- James O Thompson (University of Pittsburgh)
