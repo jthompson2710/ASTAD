@@ -15,8 +15,6 @@ Requires:
           - Also requires all the functions in the GitHub subfolder
 
 
-Last updated 04/27/2023
-
 
 ALGORITHM OBJECTIVE
 
@@ -109,5 +107,8 @@ each row representing one HDF file:
                       3 = Anomaly detected
 
 
+ 
+ 
+Last updated 04/27/2023
 
 Copyright 2023 -- James O Thompson (University of Pittsburgh)
