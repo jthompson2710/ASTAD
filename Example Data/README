@@ -1,0 +1,9 @@
+This folder contains some example data results.
+
+These were derived for the following manuscript in Remote Sensing of the Environment:
+
+
+The data are in MATLAB .mat format as Data Tables, and can be opened in MATLAB using the load function
+
+The data tables are in the following structure:
+
