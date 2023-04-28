@@ -1,6 +1,6 @@
 # Data Table Availability
 
-This folder contains the metadata for some example data results. The actually data can be located at: "this will be added when published"
+This folder contains the metadata for some example data results. The actually data can be located at: http://d-scholarship.pitt.edu/id/eprint/44804
 
 These were developed for the following manuscript in Remote Sensing of the Environment: "this will be added when published". 
 
