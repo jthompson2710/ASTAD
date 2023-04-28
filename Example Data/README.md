@@ -1,4 +1,5 @@
 # Data Table Availability
+
 This folder contains the metadata for some example data results. The actually data can be located at: "this will be added when published"
 
 These were developed for the following manuscript in Remote Sensing of the Environment: "this will be added when published". 
