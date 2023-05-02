@@ -31,6 +31,7 @@ installed
 
 Place all HDF files in one directory and then fill out the information 
 about the data and volcano below. This includes:
+
   1. Path to directory containing the HDF files
   2. Volcano Name
   3. Longitude of Volcano
