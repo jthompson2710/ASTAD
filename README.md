@@ -110,7 +110,7 @@ each row representing one HDF file:
 
 
 # ASTAD Change Detection Analysis
-We have included an analytical code that begins to test detection algoithms pre-, syn-, and post- eruptions by ivaluating the results of the ASTAD algorithm.
+We have included an analytical code that begins to test detection algoithms pre-, syn-, and post- eruptions by evaluating the results of the ASTAD algorithm.
 
 METHOD OVERVIEW
 1. Use the moving average to determine the underlying trend
@@ -121,7 +121,7 @@ METHOD OVERVIEW
 The threshold considered at this stage are fixed threshold and statistical. 
 
 
-
+# 
 Last updated 06/16/2023
 
 Copyright 2023 -- James O Thompson (University of Pittsburgh)
