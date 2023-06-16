@@ -108,8 +108,20 @@ each row representing one HDF file:
                       3 = Anomaly detected
 
 
+
+# ASTAD Change Detection Analysis
+We have included an analytical code that begins to test detection algoithms pre-, syn-, and post- eruptions by ivaluating the results of the ASTAD algorithm.
+
+METHOD OVERVIEW
+1. Use the moving average to determine the underlying trend
+2. Get the moving average of the signal
+3. Then, to highligth increasing trend, we compute its derivative
+4. Finally, since we don't look for sudden instantaneous variation but for persistent ones, i.e. changes kept for longer time, we compute its moving average again to look if the derivative is kept high for at least 5 samples
  
- 
-Last updated 04/27/2023
+The threshold considered at this stage are fixed threshold and statistical. 
+
+
+
+Last updated 06/16/2023
 
 Copyright 2023 -- James O Thompson (University of Pittsburgh)
