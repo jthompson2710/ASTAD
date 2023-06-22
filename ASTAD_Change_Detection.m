@@ -48,7 +48,7 @@ Precursor.TABderivative=base3;
 %Compute its moving average again to look if the derivative is kept high 
 %for at least 5 samples
 Precursor.TABIncreasedDetection_Fixed_Threshold=[base3>1.1,0];
-Precursor.TABIncreasedDetection_Stat_Threshold=[base3>quantile(base3,0.85),0];
+Precursor.TABIncreasedDetection_Stat_Threshold=[base3>quantile(base3,0.80),0];
 
 %Extract dates from data tables
 Dates = Final_Gabor_Test.Date(:); 
